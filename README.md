@@ -26,3 +26,9 @@
 
 ![Index](/mockups/edit.png)
 
+## SHOW PAGE
+
+- Your show page should display the poster and info for "title", "director", "year", and "your rating".
+
+![Index](/mockups/show.png)
+
