@@ -1,6 +1,7 @@
 # movie-crud
 
 ### Make your own movie rating site.
+- Fork and Clone this repository and use everything you've learned in last couple weeks to complete the exercise.  Use MongoDB for your database.
 
 ## HOME PAGE
 
