@@ -7,3 +7,9 @@
 - Your homepage can be whatever you want.  Make sure it has a link to your index page tho.
 
 ![Home](/mockups/home.png)
+
+## INDEX PAGE
+
+- Your index page should list all your movies.  There should be a button that links to each movie's edit page and a button to delete each movie.
+
+![Index](/mockups/index.png)
