@@ -5,7 +5,7 @@
 
 ## HOME PAGE
 
-- Your homepage can be whatever you want.  Make sure it has a link to your index page tho.
+- Your homepage can be whatever you want.  Make sure it has a link to your index page.
 
 ![Home](/mockups/home.png)
 
