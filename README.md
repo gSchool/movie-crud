@@ -10,7 +10,7 @@
 
 ## INDEX PAGE
 
-- Your index page should list all your movies.  There should be a button that links to each movie's edit page and a button to delete each movie.
+- Your index page should list all your movies.  The titles of the movies should link to that movies show page. There should be a button that links to each movie's edit page and a button to delete each movie.
 
 ![Index](/mockups/index.png)
 
