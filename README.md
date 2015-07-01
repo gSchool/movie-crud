@@ -20,3 +20,9 @@
 
 ![Index](/mockups/new.png)
 
+## EDIT PAGE
+
+- Your edit page should display the poster have form fields for "title", "director", "year", "your rating", and "poster url".
+
+![Index](/mockups/edit.png)
+
