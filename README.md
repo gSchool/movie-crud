@@ -34,7 +34,7 @@
 ![Index](/mockups/show.png)
 
 
-## AESTETICS 
+## AESTHETICS 
 You do not have to match the mockups exactly, but the app shouldbe attractive.  
 This is a CRUD assessment. Your first priority is to get all of the routes working.
 Your second prioirty is CSS. 
