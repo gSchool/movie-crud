@@ -2,6 +2,8 @@
 
 ### Make your own movie rating site.
 - Fork and Clone this repository and use everything you've learned in last couple weeks to complete the exercise.   
+- You do not have to match the mockups exactly, but the app should be attractive.
+This is a CRUD assessment. Your first priority is to get all of the routes working. Your second prioirty is CSS. It's open book: you can look at previous CRUD apps you've built for guidance, but you should NOT be copying and pasting any code.
 
 ## HOME PAGE
 
@@ -34,12 +36,8 @@
 ![Index](/mockups/show.png)
 
 
-## AESTHETICS 
-You do not have to match the mockups exactly, but the app shouldbe attractive.  
-This is a CRUD assessment. Your first priority is to get all of the routes working.
-Your second prioirty is CSS. 
-It's open book: you can look at previous CRUD apps you've built for guidance, but you should NOT be copying and pasting any code.  
-
+## ROUTES 
+ 
 Use the RESTful routes covered in class yesterday for each of your routes.  See your instructors for details on how to name your routes if you cannot remember the naming conventions.
 
 GET /movies   _lists all movies_
