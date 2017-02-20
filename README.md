@@ -40,16 +40,13 @@
 
 ## ROUTES 
  
-Use the RESTful routes covered in class yesterday for each of your routes.  See your instructors for details on how to name your routes if you cannot remember the naming conventions.
+Use the RESTful routes for each of your routes.
 
-
-GET /movies   _lists all movies_
-
-POST /movies  _creates a new movie_
-
-GET /movies/:id  _show one movie_
-
-GET /movies/:id/edit _form to edit a movie_     ... etc 
+- GET /movies   _lists all movies_
+- POST /movies  _creates a new movie_
+- GET /movies/:id  _show one movie_
+- GET /movies/:id/edit _form to edit a movie_
+- ... etc 
 
 
 
