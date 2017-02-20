@@ -1,9 +1,11 @@
 # MOVIE CRUD
 
 ### Make your own movie rating site.
-- Fork and Clone this repository and use everything you've learned in last couple weeks to complete the exercise.   
+
+- Fork and Clone this repository
+- Deploy your site
 - You do not have to match the mockups exactly, but the app should be attractive.
-This is a CRUD assessment. Your first priority is to get all of the routes working. Your second prioirty is CSS. It's open book: you can look at previous CRUD apps you've built for guidance, but you should NOT be copying and pasting any code.
+- This is a CRUD assessment. Your first priority is to get all of the routes working. Your second prioirty is CSS. It's open book: you can look at previous CRUD apps you've built for guidance, but you should NOT be copying and pasting any code.
 
 ## HOME PAGE
 
