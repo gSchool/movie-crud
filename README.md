@@ -43,10 +43,11 @@
 Use the RESTful routes for each of your routes.
 
 - GET /movies   _lists all movies_
-- POST /movies  _creates a new movie_
-- GET /movies/:id  _show one movie_
-- GET /movies/:id/edit _form to edit a movie_
-- ... etc 
+- POST /movies  _create a movie_
+- GET /movies/:id  _show a movie_
+- PUT /movies/:id _edit a movie_
+- DELETE /movies/:id _delete a movie_
+- ... etc
 
 
 
