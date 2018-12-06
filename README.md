@@ -2,7 +2,6 @@
 
 ### Make your own movie rating site.
 
-1. Fork and Clone this repository
 1. Create CRUD Routes.
 1. Style your site. However, CRUD is the priority.
 1. Deploy your site
